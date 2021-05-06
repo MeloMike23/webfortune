@@ -16,3 +16,5 @@ To run the app through Docker:
 # Testing App
 To test app:
 `pytest test_appserver.py`
+
+[TestStatus](https://github.com/melomike23/webfortune/actions/workflows/test_app.yml/badge.svg)
